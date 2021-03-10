@@ -1,3 +1,4 @@
+
 # Take Home Challenge
 
 - [ ] Create a new branch called "take-home"
